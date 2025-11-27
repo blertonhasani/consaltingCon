@@ -1,0 +1,22 @@
+dist
+tmp
+node_modules
+__coverage__
+__local-scripts__
+# Keep environment variables out of version control
+.env
+out
+next
+package-lock.json
+public/videos
+
+# ignore OSX
+.DS_Store
+
+# ignore IDE folders
+.vscode
+.idea
+.out
+.public/videos
+.next
+.package-lock.jsonpublic/videos
